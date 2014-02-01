@@ -1062,7 +1062,7 @@ ClefairyBaseData: ; 0x51864
 	db  70,  45,  48,  35,  60,  65
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db FAIRY, FAIRY
 	db 150 ; catch rate
 	db 68 ; base exp
 	db MYSTERYBERRY ; item 1
@@ -1093,7 +1093,7 @@ ClefableBaseData: ; 0x51884
 	db  95,  70,  73,  60,  85,  90
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db FAIRY, FAIRY
 	db 25 ; catch rate
 	db 129 ; base exp
 	db MYSTERYBERRY ; item 1
@@ -1186,7 +1186,7 @@ JigglypuffBaseData: ; 0x518e4
 	db 115,  45,  20,  20,  45,  25
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db NORMAL, FAIRY
 	db 170 ; catch rate
 	db 76 ; base exp
 	db NO_ITEM ; item 1
@@ -1217,7 +1217,7 @@ WigglytuffBaseData: ; 0x51904
 	db 140,  70,  45,  45,  75,  50
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db NORMAL, FAIRY
 	db 50 ; catch rate
 	db 109 ; base exp
 	db NO_ITEM ; item 1
@@ -3759,7 +3759,7 @@ Mr__MimeBaseData: ; 0x52344
 	db  40,  45,  65,  90, 100, 120
 	;   hp  atk  def  spd  sat  sdf
 
-	db PSYCHIC, PSYCHIC
+	db PSYCHIC, FAIRY
 	db 45 ; catch rate
 	db 136 ; base exp
 	db NO_ITEM ; item 1
@@ -5340,7 +5340,7 @@ CleffaBaseData: ; 0x529a4
 	db  50,  25,  28,  15,  45,  55
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db FAIRY, FAIRY
 	db 150 ; catch rate
 	db 37 ; base exp
 	db MYSTERYBERRY ; item 1
@@ -5371,7 +5371,7 @@ IgglybuffBaseData: ; 0x529c4
 	db  90,  30,  15,  15,  40,  20
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db NORMAL, FAIRY
 	db 170 ; catch rate
 	db 39 ; base exp
 	db NO_ITEM ; item 1
@@ -5402,7 +5402,7 @@ TogepiBaseData: ; 0x529e4
 	db  35,  20,  65,  20,  40,  65
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db FAIRY, FAIRY
 	db 190 ; catch rate
 	db 74 ; base exp
 	db NO_ITEM ; item 1
@@ -5433,7 +5433,7 @@ TogeticBaseData: ; 0x52a04
 	db  55,  40,  85,  40,  80, 105
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, FLYING
+	db FAIRY, FLYING
 	db 75 ; catch rate
 	db 114 ; base exp
 	db NO_ITEM ; item 1
@@ -5650,7 +5650,7 @@ MarillBaseData: ; 0x52ae4
 	db  70,  20,  50,  40,  20,  50
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER
+	db WATER, FAIRY
 	db 190 ; catch rate
 	db 58 ; base exp
 	db NO_ITEM ; item 1
@@ -5681,7 +5681,7 @@ AzumarillBaseData: ; 0x52b04
 	db 100,  50,  80,  50,  50,  80
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER
+	db WATER, FAIRY
 	db 75 ; catch rate
 	db 153 ; base exp
 	db NO_ITEM ; item 1
@@ -6456,7 +6456,7 @@ SnubbullBaseData: ; 0x52e24
 	db  60,  80,  50,  30,  40,  40
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db FAIRY, FAIRY
 	db 190 ; catch rate
 	db 63 ; base exp
 	db NO_ITEM ; item 1
@@ -6487,7 +6487,7 @@ GranbullBaseData: ; 0x52e44
 	db  90, 120,  75,  45,  60,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL
+	db FAIRY, FAIRY
 	db 75 ; catch rate
 	db 178 ; base exp
 	db NO_ITEM ; item 1
