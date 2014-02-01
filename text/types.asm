@@ -97,7 +97,7 @@ TypeNames: ; 5097b
 	dw Poison
 	dw Ground
 	dw Rock
-	dw Bird
+	dw Fairy
 	dw Bug
 	dw Ghost
 	dw Steel
@@ -147,7 +147,7 @@ Ground:
 Rock:
 	db "ROCK@"
 Bird:
-	db "BIRD@"
+	db "FAIRY@"
 Bug:
 	db "BUG@"
 Ghost:
